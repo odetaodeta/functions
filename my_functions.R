@@ -25,7 +25,7 @@ cheat <- function(assignment_number) {
   }
 }
 
-assignment_code <- cheat("3_1_7")
-print(assignment_code)
-#"data(cars) ggplot(cars, aes(x = speed, y = dist)) +\n  
-#geom_point(pch = 16, col = 'black') + geom_smooth()"
+
+
+
+source("https://raw.githubusercontent.com/odetaodeta/remind_me/main/my_functions.R")
