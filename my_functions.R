@@ -27,5 +27,3 @@ cheat <- function(assignment_number) {
 
 
 
-
-source("https://raw.githubusercontent.com/odetaodeta/remind_me/main/my_functions.R")
